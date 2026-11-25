@@ -1,5 +1,0 @@
-Lnc-DZANK1 expression was significantly higher in MYC-high than in MYC-low tumors in the TCGA colorectal cancer cohort (high n = 319, low n = 318; median log2(TPM + 1), 0.0807 versus 0.0638; two-sided Wilcoxon rank-sum P = 0.0214). Spearman analysis yielded rho = 0.094 (P = 0.0173, n = 637).
-
-Lnc-DZANK1 expression was significantly higher in MYC-high than in MYC-low tumors in the TCGA esophageal cancer cohort (high n = 93, low n = 92; median log2(TPM + 1), 0.4116 versus 0.3237; two-sided Wilcoxon rank-sum P = 0.00709). Spearman analysis yielded rho = 0.153 (P = 0.0373, n = 185).
-
-P values are nominal and unadjusted. These sample-level associations do not establish causality. Multiple tumor samples from some patients were retained to preserve the requested cohort; observations are not all independent at patient level.
