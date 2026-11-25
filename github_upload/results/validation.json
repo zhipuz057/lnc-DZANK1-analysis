@@ -1,0 +1,18 @@
+[
+  {
+    "cohort": "CRC",
+    "pairwise_U": 45424.0,
+    "independent_Wilcoxon_P": 0.02136399436143761,
+    "rank_Pearson_rho": 0.09430604914947993,
+    "independent_Spearman_P": 0.017274611060497422,
+    "all_checks_passed": true
+  },
+  {
+    "cohort": "ESCA",
+    "pairwise_U": 3297.0,
+    "independent_Wilcoxon_P": 0.007093086598675573,
+    "rank_Pearson_rho": 0.15322012054129866,
+    "independent_Spearman_P": 0.03732377056556876,
+    "all_checks_passed": true
+  }
+]
