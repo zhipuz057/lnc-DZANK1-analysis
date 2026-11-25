@@ -1,0 +1,38 @@
+[
+  {
+    "Cancer": "CRC",
+    "RNA_primary_samples_before_patient_dedup": 624,
+    "CNV_samples_returned": 592,
+    "RNA_CNV_matched_patients": 590,
+    "+2_amplification": 30,
+    "+1_gain": 321,
+    "diploid": 230,
+    "deletion": 9,
+    "CNV_value_counts": {
+      "-1": 9,
+      "0": 230,
+      "1": 321,
+      "2": 30
+    },
+    "No_normal_samples": true,
+    "No_duplicate_patient_IDs": true
+  },
+  {
+    "Cancer": "ESCA",
+    "RNA_primary_samples_before_patient_dedup": 184,
+    "CNV_samples_returned": 182,
+    "RNA_CNV_matched_patients": 181,
+    "+2_amplification": 40,
+    "+1_gain": 103,
+    "diploid": 32,
+    "deletion": 6,
+    "CNV_value_counts": {
+      "-1": 6,
+      "0": 32,
+      "1": 103,
+      "2": 40
+    },
+    "No_normal_samples": true,
+    "No_duplicate_patient_IDs": true
+  }
+]
